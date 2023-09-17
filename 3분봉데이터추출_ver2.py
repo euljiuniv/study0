@@ -2,7 +2,7 @@ from pykiwoom.kiwoom import *
 import pandas as pd
 import time
 ###sdsd###
-# 로그인2
+# 로그인3
 kiwoom = Kiwoom()
 kiwoom.CommConnect(block=True)
 
